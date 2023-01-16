@@ -1,8 +1,10 @@
 # 70+ -Html-Tags-and-their-brief-explanation
 
 HTML (Hypertext Markup Language) is the standard markup language for creating web pages. It consists of a series of tags that are used to define the structure and content of a web page. Here are some of the most common HTML tags and a brief explanation of what they do:
-<html>: This tag is the root element of an HTML document and contains all other elements on the page.
-<head>: This tag contains metadata about the document, such as the title of the page, keywords, and stylesheets.
+
+---------------------
+- <html>: This tag is the root element of an HTML document and contains all other elements on the page.
+- <head>: This tag contains metadata about the document, such as the title of the page, keywords, and stylesheets.
 <title>: This tag is used to specify the title of the document, which is displayed in the browser's title bar or tab.
 <body>: This tag contains the content of the document that is displayed in the browser window.
 <header>: This tag is used to define a container for introductory content or a set of navigational links.
@@ -76,3 +78,4 @@ HTML (Hypertext Markup Language) is the standard markup language for creating we
 <picture> : This tag is used to specify multiple sources for an <img> element to provide different images based on the device's screen size, viewport, and other conditions.
 <template>: This tag is used to define a template, which is a reusable fragment of HTML that can be used to insert content into a web page using JavaScript.
 <webview>: This tag is used to embed external web content in a web page, such as another web page.
+
